@@ -1,2 +1,2 @@
 # Newcheck
-learning 
+learning A
